@@ -1,7 +1,0 @@
-[2024-05-29 20:57:32] [ INFO ] [PacienteDAOH2:116] iniciando las operaciones de busqueda:
-[2024-05-29 20:57:32] [ ERROR] [PacienteDAOH2:133] Table "PACIENTES" not found (this database is empty); SQL statement:
-SELECT * FROM PACIENTES [42104-224]
-[2024-05-29 21:03:21] [ INFO ] [BD:33] tabla creada con exito
-[2024-05-29 21:03:39] [ INFO ] [PacienteDAOH2:116] iniciando las operaciones de busqueda:
-[2024-05-29 21:03:39] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
-[2024-05-29 21:03:39] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 2
