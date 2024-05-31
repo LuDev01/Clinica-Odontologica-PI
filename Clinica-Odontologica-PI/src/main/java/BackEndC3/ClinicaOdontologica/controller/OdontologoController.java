@@ -22,11 +22,11 @@ public class OdontologoController {
         model.addAttribute("odontologos",listaOdontogos);
         return "listaodontologos.html";
     }*/
- @GetMapping
-    public List<Odontologo> buscarOdontologoTodos() {
-     List<Odontologo> listaOdontogos = odontologoService.buscarOdontologos();
-     return listaOdontogos;
- }
+     @GetMapping
+        public List<Odontologo> buscarOdontologoTodos() {
+         List<Odontologo> listaOdontogos = odontologoService.buscarOdontologos();
+         return listaOdontogos;
+     }
     @PostMapping
     public Odontologo guardarOdontologo(@RequestBody Odontologo odontologo){
         return odontologoService.crearOdontologos(odontologo);

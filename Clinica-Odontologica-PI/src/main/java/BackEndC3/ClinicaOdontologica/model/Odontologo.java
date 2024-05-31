@@ -1,5 +1,6 @@
 package BackEndC3.ClinicaOdontologica.model;
 
+
 import lombok.Getter;
 import lombok.Setter;
 

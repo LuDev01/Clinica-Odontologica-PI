@@ -200,3 +200,267 @@ SELECT * FROM ODONTOLOGOS [42104-224]
 [2024-05-29 22:43:22] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
 [2024-05-29 22:43:22] [ ERROR] [OdontologoDAOH2:112] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
 SELECT * FROM ODONTOLOGOS [42104-224]
+[2024-05-30 16:40:24] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 16:41:40] [ INFO ] [PacienteDAOH2:116] iniciando las operaciones de busqueda:
+[2024-05-30 16:41:40] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 16:41:40] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 2
+[2024-05-30 16:41:58] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 16:45:23] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 16:45:28] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:48:41] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 16:50:14] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:50:16] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:50:16] [ ERROR] [OdontologoDAOH2:113] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2024-05-30 16:51:18] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 16:51:26] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:51:28] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:51:28] [ ERROR] [OdontologoDAOH2:114] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2024-05-30 16:53:17] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 16:53:24] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:53:24] [ ERROR] [OdontologoDAOH2:114] This method is not allowed for a prepared statement; use a regular statement instead. [90130-224]
+[2024-05-30 16:53:26] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:53:26] [ ERROR] [OdontologoDAOH2:114] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2024-05-30 16:53:36] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 16:53:43] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:53:43] [ ERROR] [OdontologoDAOH2:114] This method is not allowed for a prepared statement; use a regular statement instead. [90130-224]
+[2024-05-30 16:54:30] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 16:54:38] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:54:39] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:54:39] [ ERROR] [OdontologoDAOH2:114] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2024-05-30 16:55:34] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 16:55:40] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:55:41] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:55:42] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:55:43] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:58:07] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 16:58:11] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:58:11] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:58:12] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:58:38] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 16:59:10] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:59:11] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 16:59:12] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 17:02:45] [ INFO ] [OdontologoDAOH2:22] Iniciando la operación de creación
+[2024-05-30 17:03:17] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 17:03:17] [ ERROR] [OdontologoDAOH2:114] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2024-05-30 17:03:43] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 17:04:00] [ INFO ] [OdontologoDAOH2:22] Iniciando la operación de creación
+[2024-05-30 17:04:04] [ INFO ] [OdontologoDAOH2:96] Iniciando la operación de busqueda
+[2024-05-30 17:09:04] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 17:09:11] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 17:09:14] [ INFO ] [OdontologoDAOH2:22] Iniciando la operación de creación
+[2024-05-30 17:12:51] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 17:13:01] [ INFO ] [OdontologoDAOH2:22] Iniciando la operación de creación
+[2024-05-30 17:13:11] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 17:14:20] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 17:14:29] [ INFO ] [OdontologoDAOH2:22] Iniciando la operación de creación
+[2024-05-30 17:14:32] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 17:17:40] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 17:17:56] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 17:18:03] [ INFO ] [OdontologoDAOH2:22] Iniciando la operación de creación
+[2024-05-30 17:18:06] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 17:18:10] [ INFO ] [OdontologoDAOH2:22] Iniciando la operación de creación
+[2024-05-30 17:18:14] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 17:22:33] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 17:22:46] [ INFO ] [OdontologoDAOH2:22] Iniciando la operación de creación
+[2024-05-30 17:22:50] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 17:24:06] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 17:24:17] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 17:24:21] [ INFO ] [OdontologoDAOH2:22] Iniciando la operación de creación
+[2024-05-30 17:25:52] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 17:26:03] [ INFO ] [OdontologoDAOH2:22] Iniciando la operación de creación
+[2024-05-30 17:26:06] [ INFO ] [OdontologoDAOH2:95] Iniciando la operación de busqueda
+[2024-05-30 17:30:04] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 18:12:43] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 18:12:51] [ INFO ] [OdontologoDAOH2:96] Iniciando la operación de busqueda
+[2024-05-30 18:12:55] [ INFO ] [OdontologoDAOH2:22] Iniciando la operación de creación
+[2024-05-30 18:12:59] [ INFO ] [OdontologoDAOH2:96] Iniciando la operación de busqueda
+[2024-05-30 18:27:37] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 18:28:40] [ INFO ] [TurnoDAOLISTA:49] iniciando las operacion de mostrar todos los turnos
+[2024-05-30 18:30:19] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:30:19] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:30:19] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:30:19] [ INFO ] [TurnoDAOLISTA:14] iniciando las operaciones de guardado de un turno
+[2024-05-30 18:30:19] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:30:19] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:30:19] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:30:19] [ INFO ] [TurnoDAOLISTA:20] turno guardado con exito
+[2024-05-30 18:36:20] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 18:36:29] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:36:29] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:36:29] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:36:29] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 18:36:29] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:36:29] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:36:29] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:36:29] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 18:36:32] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:36:32] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:36:32] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:36:32] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 18:36:32] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:36:32] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:36:32] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:36:32] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 18:36:33] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:36:33] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:36:33] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:36:33] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 18:36:33] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:36:33] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:36:33] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:36:33] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 18:36:34] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:36:34] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:36:34] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:36:34] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 18:36:34] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:36:34] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:36:34] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:36:34] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 18:36:35] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:36:35] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:36:35] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:36:35] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 18:36:35] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:36:35] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:36:35] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:36:35] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 18:36:36] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:36:36] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:36:36] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:36:36] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 18:36:36] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:36:36] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:36:36] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:36:36] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 18:36:37] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:36:37] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:36:37] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:36:37] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 18:36:37] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:36:37] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:36:37] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:36:37] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 18:36:42] [ INFO ] [TurnoDAOLISTA:57] iniciando las operacion de mostrar todos los turnos
+[2024-05-30 18:49:36] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 18:49:53] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:49:53] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:49:53] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:49:53] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 18:49:53] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:49:53] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:49:53] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:49:53] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 18:49:55] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:49:55] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:49:55] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:49:55] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 18:49:55] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:49:55] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:49:55] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:49:55] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 18:49:56] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:49:56] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:49:56] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:49:56] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 18:49:56] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:49:56] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:49:56] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:49:56] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 18:49:58] [ INFO ] [TurnoDAOLISTA:63] iniciando las operacion de mostrar todos los turnos
+[2024-05-30 18:50:19] [ INFO ] [TurnoDAOLISTA:63] iniciando las operacion de mostrar todos los turnos
+[2024-05-30 18:50:28] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:50:28] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:50:28] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:50:28] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 18:50:28] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:50:28] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:50:28] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:50:28] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 18:50:36] [ INFO ] [TurnoDAOLISTA:63] iniciando las operacion de mostrar todos los turnos
+[2024-05-30 18:53:12] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 18:53:38] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:53:38] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:53:38] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:53:38] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 18:53:38] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:53:38] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:53:38] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:53:38] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 18:53:40] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:53:40] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:53:40] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:53:40] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 18:53:40] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:53:40] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:53:40] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:53:40] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 18:53:41] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:53:41] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:53:41] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:53:41] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 18:53:41] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:53:41] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:53:41] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:53:41] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 18:53:42] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:53:42] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:53:42] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:53:42] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 18:53:42] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:53:42] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:53:42] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:53:42] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 18:53:43] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:53:43] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:53:43] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:53:43] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 18:53:43] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 18:53:43] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 18:53:43] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 18:53:43] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 19:03:27] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 19:04:33] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 19:04:49] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 19:05:58] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 19:06:24] [ INFO ] [TurnoDAOLISTA:47] iniciando las operaciones de eliminar el turno: 3
+[2024-05-30 19:09:22] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 19:09:30] [ INFO ] [TurnoDAOLISTA:47] iniciando las operaciones de eliminar el turno: 3
+[2024-05-30 19:11:56] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 19:12:03] [ INFO ] [TurnoDAOLISTA:47] iniciando las operaciones de eliminar el turno: 3
+[2024-05-30 19:13:29] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 19:13:49] [ INFO ] [TurnoDAOLISTA:47] iniciando las operaciones de eliminar el turno: 3
+[2024-05-30 19:14:07] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 19:14:08] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 19:14:08] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 19:14:08] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 19:14:08] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 19:14:08] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 19:14:08] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 19:14:08] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 19:14:08] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 19:14:08] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 19:14:08] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 19:14:08] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 19:14:08] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 19:14:08] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 19:14:08] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 19:14:08] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 19:14:09] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 19:14:09] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 19:14:09] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 19:14:09] [ INFO ] [TurnoDAOLISTA:21] iniciando las operaciones de guardado de un turno
+[2024-05-30 19:14:09] [ INFO ] [PacienteDAOH2:51] iniciando la operacion de buscado de un paciente con id : 1
+[2024-05-30 19:14:09] [ INFO ] [DomicilioDAOH2:44] iniciando la busqueda de un domicilio con id: 1
+[2024-05-30 19:14:09] [ INFO ] [OdontologoDAOH2:44] Iniciando la operación de busqueda odontologo
+[2024-05-30 19:14:09] [ INFO ] [TurnoDAOLISTA:28] turno guardado con exito
+[2024-05-30 19:14:13] [ INFO ] [TurnoDAOLISTA:47] iniciando las operaciones de eliminar el turno: 3
+[2024-05-30 19:14:13] [ INFO ] [TurnoDAOLISTA:47] iniciando las operaciones de eliminar el turno: 3
+[2024-05-30 19:14:24] [ INFO ] [TurnoDAOLISTA:70] iniciando las operacion de mostrar todos los turnos
+[2024-05-30 19:18:35] [ INFO ] [TurnoDAOLISTA:70] iniciando las operacion de mostrar todos los turnos

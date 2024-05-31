@@ -19,6 +19,10 @@ public class OdontologoService {
         return odontologoiDao.crear(odontologo);
     }
 
+    public Odontologo buscarPorId(Integer id){
+        return odontologoiDao.buscarPorId(id);
+    }
+
     /*public  Odontologo guardarOdontologo(Odontologo odontologo){
         return odontologoiDao.crear(odontologo);
     }*/

@@ -21,28 +21,20 @@ public class OdontologoDAOH2 implements iDao<Odontologo>{
     public Odontologo crear(Odontologo odontologo) {
         logger.info("Iniciando la operación de creación");
         Connection connection=null;
-     /*   try{
+        try{
             connection=BD.getConnection();
-            PreparedStatement psCreate= connection.prepareStatement(SQL_CREATE_ONE);
+            PreparedStatement psCreate= connection.prepareStatement(SQL_CREATE_ONE, Statement.RETURN_GENERATED_KEYS);
             psCreate.setInt(1,odontologo.getNumeroMatricula());
             psCreate.setString(2,odontologo.getNombre());
             psCreate.setString(3,odontologo.getApellido());
             psCreate.execute();
-
             ResultSet clave= psCreate.getGeneratedKeys();
             while (clave.next()){
                 odontologo.setId(clave.getInt(1));
             }
         }catch (Exception e){
             logger.error(e.getMessage());
-        }finally {
-            try {
-                connection.close();
-            }
-            catch (Exception e){
-                logger.error(e.getMessage());
-            }
-        } */
+        }
 
             return odontologo;
     }
@@ -54,7 +46,7 @@ public class OdontologoDAOH2 implements iDao<Odontologo>{
         Odontologo odontologo=null;
         try{
             connection=BD.getConnection();
-            Statement statement=connection.createStatement();
+
             PreparedStatement ps= connection.prepareStatement(SQL_FIND_BY_ID);
             ps.setInt(1,id);
 
@@ -67,14 +59,8 @@ public class OdontologoDAOH2 implements iDao<Odontologo>{
 
         }catch (Exception e){
             logger.error(e.getMessage());
-        }finally {
-            try {
-                connection.close();
-            }
-            catch (Exception e){
-                logger.error(e.getMessage());
-            }
         }
+
 
         return odontologo;
 
@@ -96,28 +82,25 @@ public class OdontologoDAOH2 implements iDao<Odontologo>{
         Connection connection=null;
 
         List<Odontologo> listadoOdontologos= new ArrayList<>();
+        System.out.println();
 
         try{
             connection=BD.getConnection();
-            Statement statement=connection.createStatement();
-            PreparedStatement psSelectAll= connection.prepareStatement(SQL_SELECT_ALL);
+            Statement statement = connection.createStatement();
+//            PreparedStatement psSelectAll= connection.prepareStatement(SQL_SELECT_ALL);
 
-            ResultSet rs=psSelectAll.executeQuery();
+            ResultSet rs= statement.executeQuery(SQL_SELECT_ALL);
 
             while(rs.next()){
-            listadoOdontologos.add(new Odontologo(rs.getInt(1),rs.getInt(2),rs.getString(3),rs.getString(4)));
+                listadoOdontologos.add(new Odontologo(rs.getInt(1),rs.getInt(2),rs.getString(3),rs.getString(4)));
             }
+
 
         }catch (Exception e){
             logger.error(e.getMessage());
-        }finally {
-            try {
-                connection.close();
-            }
-            catch (Exception e){
-                logger.error(e.getMessage());
-            }
+
         }
+
         return listadoOdontologos;
     }
 
